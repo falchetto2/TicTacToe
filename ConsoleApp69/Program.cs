@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp69;
+﻿namespace tictactoe;
 
 public class Program
 {
